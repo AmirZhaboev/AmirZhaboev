@@ -33,5 +33,5 @@
 
 ### 📂 My pet-projects
 
-- [🏫 School21 DevOps](https://github.com/Maxuss7/School21-DevOps)  
+- [🏫 School21 DevOps](https://github.com/AmirZhaboev/School21-DevOps)  
   DevOps course from School 21.
