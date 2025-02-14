@@ -28,7 +28,7 @@
 
 ### 📈 Statistics
 
-![My statistics](https://github-readme-stats.vercel.app/api?username=Maxuss7&show_icons=true&theme=radical)
+![My statistics](https://github-readme-stats.vercel.app/api?username=AmirZhaboev&show_icons=true&theme=radical)
 
 ---
 
